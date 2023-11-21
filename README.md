@@ -33,21 +33,11 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/CirTube.git
-Open the Project:
-
-Open the project in your preferred code editor.
-
-View the Home Page:
-
-Open the index.html file in your web browser.
-
-Navigate to the Video Player Page:
-
-Go to the video-player directory and open the video-player.html file.
+2. Open the project in your preferred code editor.
 
 Screenshots
 Home Page
-https://github.com/imooorsy/CirTube/blob/main/screencapture-127-0-0-1-5500-CirTude-index-html-2021-10-04-16_56_12.png
+[Home Page - web](https://github.com/imooorsy/CirTube/blob/main/screencapture-127-0-0-1-5500-CirTude-index-html-2021-10-04-16_56_12.png)
 [Home Page - Mobile](https://github.com/imooorsy/CirTube/blob/main/screencapture-127-0-0-1-5500-CirTude-index-html-2021-10-04-16_57_34.png)
 
 Video Player Page
