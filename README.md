@@ -47,7 +47,7 @@ Go to the video-player directory and open the video-player.html file.
 
 Screenshots
 Home Page
-[Home Page - Web](https://github.com/imooorsy/CirTube/blob/main/screencapture-127-0-0-1-5500-CirTude-index-html-2021-10-04-16_56_12.png)
+https://github.com/imooorsy/CirTube/blob/main/screencapture-127-0-0-1-5500-CirTude-index-html-2021-10-04-16_56_12.png
 [Home Page - Mobile](https://github.com/imooorsy/CirTube/blob/main/screencapture-127-0-0-1-5500-CirTude-index-html-2021-10-04-16_57_34.png)
 
 Video Player Page
